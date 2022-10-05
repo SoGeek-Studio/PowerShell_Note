@@ -20,16 +20,16 @@ cmdlet 是在 PowerShell 环境中使用的一种轻量级命令。 PowerShell �
 
 ## using PowerShell
 在 Windows 平台下，可以通过右键开始菜单->Windows PowerShell 打开 PowerShell。（在 Windows 11 下，微软已经将默认命令终端应用程序替换为 Terminal，打开 Terminal 后同样可以使用 PowerShell）
-![](./image/PowerShell/Pasted image 20221005194251.png)
+![](image/PowerShell/Pasted image 20221005194251.png)
 您同时也可以使用 Windows 下搜索功能搜索 PowerShell 应用直接打开原生 PowerShell 使用。
-![](./image/PowerShell/Pasted image 20221005194531.png)
+![](image/PowerShell/Pasted image 20221005194531.png)
 
 # 2. PowerShell 的基本操作
 ## 1. using PowerShell Calculators
 PowerShell 可以作为计算器使用，我们可以以键入命令行的方式来输入数学表达式并直接运算，在 PowerShell 中可以自动计算并输出结果。包括加减乘除运算以及各种进制运算皆可成功执行
-![](./image/PowerShell/Pasted image 020221005195556.png)
+![](image/PowerShell/Pasted image 020221005195556.png)
 同时 PowerShell 底层也保存了计算机基本容量单位换算
-![](./image/PowerShell/Pasted image 20221005195734.png)
+![](image/PowerShell/Pasted image 20221005195734.png)
 
 # 参考文献
 
