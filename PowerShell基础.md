@@ -35,3 +35,4 @@ PowerShell 可以作为计算器使用，我们可以以键入命令行的方式
 
 [^1]:[探索 PowerShell - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/discover-powershell?source=recommendations&view=powershell-7.2 )
 [^2]: [Cmdlet 概述 - PowerShell | Microsoft Learn](https://learn.microsoft.com/zh-cn/powershell/scripting/developer/cmdlet/cmdlet-overview?view=powershell-7.2&viewFallbackFrom=powershell-6)
+
