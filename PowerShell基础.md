@@ -21,7 +21,9 @@ cmdlet 是在 PowerShell 环境中使用的一种轻量级命令。 PowerShell �
 ## using PowerShell
 在 Windows 平台下，可以通过右键开始菜单->Windows PowerShell 打开 PowerShell。（在 Windows 11 下，微软已经将默认命令终端应用程序替换为 Terminal，打开 Terminal 后同样可以使用 PowerShell）
 ![](https://github.com/SoGeek-Studio/PowerShell_Note/blob/main/image/PowerShell/Pasted%20image%2020221005194251.png)
+
 您同时也可以使用 Windows 下搜索功能搜索 PowerShell 应用直接打开原生 PowerShell 使用。
+
 ![](https://github.com/SoGeek-Studio/PowerShell_Note/blob/main/image/PowerShell/Pasted%20image%2020221005194531.png)
 
 # 2. PowerShell 的基本操作
